@@ -17,9 +17,6 @@ All repositories in this organization are licensed under the MIT License. See th
 
 # Try it yourself: what you need
 
-Use this checklist to rebuild the "git commit → running app" pipeline on your own laptop.
-It goes with the diagram [k3d-cicd-gitops-flow-simple.png](./k3d-cicd-gitops-flow-simple.png).
-
 ## 1. Accounts (all free)
 
 | # | Account | Why you need it |
