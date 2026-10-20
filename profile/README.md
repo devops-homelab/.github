@@ -4,8 +4,7 @@ Welcome to the **DevOps Homelab** GitHub organization! This organization is a co
 
 ## Overview
 
-<img width="5200" height="3540" alt="image" src="https://github.com/user-attachments/assets/1efae794-b7fa-481d-ab9a-4dd9a0e7746d" />
-
+<img width="4800" height="2320" alt="k3d-cicd-gitops-flow-simple" src="https://github.com/user-attachments/assets/5a2d878d-1efa-487d-b2d0-4b99ef4338a8" />
 
 ## Contributing
 
